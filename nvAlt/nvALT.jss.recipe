@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of nvALT and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.nvALT</string>
+	<string>com.github.mrorya.jss.nvALT</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
